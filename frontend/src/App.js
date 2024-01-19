@@ -8,6 +8,7 @@ import ShopCategory from './Pages/ShopCategory';
 import Product from  './Pages/Product';
 import LoggingSignup from './Pages/LoggingSignup';
 import Cart from './Pages/Cart';
+import Footer from './Components/Footer/Footer';
 
 
 
@@ -30,7 +31,7 @@ function App() {
         <Route path='/loging' element={<LoggingSignup/>}/>
 
       </Routes>
-      
+      <Footer/>
       </BrowserRouter>
     
     
