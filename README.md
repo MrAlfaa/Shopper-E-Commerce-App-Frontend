@@ -1,1 +1,1 @@
-# SHOPPER-E-Commerce-App-Mern-Stack
+# VISTA-E-Commerce-App-frontend
