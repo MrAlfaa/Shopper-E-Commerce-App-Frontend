@@ -33,4 +33,4 @@ Welcome to the VISTA E-Commerce App frontend repository! This React.js-based pro
 
 ---
 
-Happy shopping with VISTA E-Commerce App! 🛍️
+
