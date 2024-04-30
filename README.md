@@ -1,4 +1,4 @@
-# VISTA E-Commerce App - Frontend
+# Shopper E-Commerce App - Frontend
 
 ## Overview
 
